@@ -1,0 +1,35 @@
+1 - Tackle
+2 - Growl
+3 - Leech Seed
+4 - Vine Whip
+5 - Poison Powder
+6 - Sleep Powder
+7 - Take Down
+8 - Razor Leaf
+9 - Sweet Scent
+10 - Growth
+11 - Double-edge
+12 - Worry Seed
+13 - Synthesis
+14 - Seed Bomb
+
+Array Pokémon (Bulbasaur Inicial)
+
+[1, "BULBASAUR", 1, 1, 1, 0, 70,  [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], 0, [0], 0, 0, 1]
+
+1 -> Id do pokémon
+"BULBASAUR" - > Nome escolhido para o Pokémon
+1 -> Gênero do pokémon. (0 - Genderless, 1 - Female, 2 - male);
+1 -> Habilidade do pokémon
+1 -> Nível do Pokémon 
+0 -> Exp total do Pokémon
+70 - > Felicidade do Pokémon
+[0, 0, 0, 0, 0, 0] -> Composição de IV
+[0, 0, 0, 0, 0] -> Composição de EV
+[0, 0, 0, 0] -> Moveset
+[0, 0, 0, 0] -> PP
+0 - > Item que o pokémon está segurando
+[0] -> Medalhas ou Premiações ao Pokémon (Geralmente a array pode se estender)
+0 -> Sua forma. Geralmente usados apenas por pokémons com várias formas. Exemplo: Unown, Zygarde, Florges, etc. (O que difere da ID do pokémon)
+0 -> Sua pelagem. (0 - Normal, 1 - Shiny)
+1 -> Nature do Pokémon

@@ -1,0 +1,116 @@
+====================================
+0.0 - Início do Projeto
+
+G - Scene Intro e Load
+
+0.0.1 - Desenho do Canvas (78KB)
+0.0.2 - Desenhada imagem completa em canvas (368KB)
+0.0.3 - Sistema de Resource e Pack Resources criado (404KB)
+0.0.4 - Melhoria no processo (240KB)
+0.0.5 - Fade incluido (236KB)
+0.0.6 - Carregamento Inicial com drawImage e Onload beta concluído (240KB)
+0.0.7 - Criação inicial do Parallax (236KB)
+0.0.8 - Criação da imagem sobreposta inicial (NULL) (188KB)
+0.0.9 - Estrutura inicial dos botões criada (160KB)
+0.0.10 - Hover com dois ou mais botões e textos adicionados (256KB)
+0.0.11 - Adicionar click nos botões como funções (256KB)
+0.0.12 - Parallax reestruturado (248KB)
+0.0.13 - Bug do resize corrigido (248KB)
+0.0.14 - Estrutura de Resource de áudio programada (1,7MB)
+0.0.15 - Estrutura de pack's Resources otimizada(1,7MB)
+0.0.16 - Estrutura de variáveis arrumadas (1,7MB)
+
+Scene_New
+
+0.1.0 - Criado parallax (1,8MB)
+0.1.1 - Função de mensagem inicial criada (1,8MB)
+0.1.2 - Criado Painel e as funções de Masculino e Feminino (1,9MB)
+0.1.3 - Criado campo de Nickname inicial (1,9MB)
+0.1.4 - Inserida a InputName (1,9MB)
+0.1.5 - Programado o Back-end da verificação de apelido (1,9MB)
+0.1.6 - Variáveis atualizadas (2MB)
+0.1.7 - Arrows inseriadas (2MB)
+0.1.8 - Inserida a estrutura para 3 painéis (2MB)
+0.1.9 - Inserido as peles dos personagens (2MB)
+0.1.10 - Cabelos inseridos (2,1MB)
+0.1.11 - Camisas inseridos (2,1MB)
+0.1.12 - Shorts inseridos (2,2MB)
+0.1.13 - Shoes inseridos (2,2MB)
+0.1.14 - Criação em Sprite do personagem (2,4MB)
+0.1.15 - Botão de verificação de nickname criado (2,4MB)
+0.1.16 - Correção de Bugs na input (2,4MB)
+0.1.17 - Inserção dos dados na Database (2,4MB)
+0.1.18 - Criação do Sprite e Character após cadastro (2,5MB)
+0.1.19 - Sistema de começar com o char criado na tela de login (2,5MB)
+0.1.20 - Atualizada mensagem de criação (2,5MB)
+0.1.21 - Preparativos para a introdução de mapa (2,5MB)
+
+Scene_Map
+
+0.2.1 - Iniciado o game map com a inclusão e configuração inicial do JSON (3,2MB)
+0.2.2 - Gerado as tilesets por nome das propriedades inclusas (3,2MB)
+0.2.3 - Gerado as camadas por layers e seus nomes (3,2MB)
+0.3 - Concluído a Cena do Mapa (3,2MB)
+
+Sprite_Character
+
+0.3.1 - Primeiro desenho do personagem (3,2MB)
+0.3.2 - Primeiros movimentos do 'object' do personagem (3,3MB)
+0.3.3 - Movimentos aceitáveis (3,3MB)
+0.3.4 - Movimentos melhorado (3,3MB)
+0.3.5 - Adaptação de Movimentos (3,3MB)
+0.3.6 - Movimentos concluídos com sucesso! (3,3MB)
+0.3.7 - Sistema de Viewport (Centro) Concluído (3,3MB)
+0.3.8 - Sistema de Viewport (Centro, X e Y em forma inicial) Concluído (3,3mb)
+0.3.9 - Sistema de Limites do Viewport sem o sólido Concluído (3,3mb)
+
+Sistema de Solidez
+0.4 - Melhorias finais no sistema (3,3MB)
+0.4.1 - Correção no sistema de character (3,3MB)
+0.4.2 - As 4 paredes solidas para o personagem no mapa (3,3MB)
+0.4.3 - Correção de Bugs no sistema Sólido e de Animação I (3,3MB)
+0.4.4 - Correção de Bugs no sistema Sólido e de Animação II (3,4MB),
+0.4.5 - Correção de Bugs no sistema Sólido e de Animação III (3,4MB)
+0.4.6 - Módulo responsivo (3,4MB)
+0.4.7 - Velocidade do personagem setada (3,4MB)
+0.4.8 - Sistema de below e above entre o mapa adicionado (3,4MB)
+0.4.9 - Diminuição de requisições (3,6MB)
+0.4.10 - Correção de Bugs na renderização do mapa (3,4MB)
+0.4.11 - Sistema de Full screen e melhoria de código (3,6MB)
+0.4.12 - Melhorias no sistema de requestAnimation (3,6MB)
+0.4.13 - Melhorias no sistema de SceneMap (3,7MB)
+0.4.14 - Melhoras no sistema de Character (3,7MB)
+0.4.15 - Sistema de Game Event com character inicial (3,7MB)
+
+0.5 - Primeiro mapa exemplo constrúido / Sistema de evento automático e manual programado (3,9MB)
+0.5.1 - Sistema de evento por action estruturado (3,9MB)
+0.5.2 - Estruturação de evento atualizada (3,9MB)
+0.5.3 - Correções de Back-end e Banco de Dados (4,2MB)
+0.6 - Sistema de mudança de mapa concluída (4,4MB)
+
+==== Revisão de Código
+
+0.6.1 - mainResources atualizadas (4,5MB)
+0.6.2 - Correções na renderização (4,6MB)
+0.6.3 - Correções no script de Server (4,9MB)
+0.6.4 - Gerenciação das variáveis (4,9MB)
+0.6.5 - Início dos testes iniciais no laboratório de Zethyn (4,9MB)
+0.6.6 - Sistema de viewport reformulado (4,9MB)
+0.6.7 - Sistema de personagem/mapa reformulado (4,9MB)
+0.6.8 - Sistema de movimento do personagem reformulado (4,9MB)
+0.6.9 - Sistema de solidez reformulado (4,9MB)
+0.6.10 - Sistema de transição de mapa completo (4,8MB)
+0.6.11 - Sistema de drawCharacter (4,9MB)
+0.6.12 - Sistema de evento de teletransporte reformulado (4,9MB)
+0.6.13 - Ajustes e correções nos sistemas do jogo (4,9MB)
+0.6.14 - Correções de Bugs e alterações no Canvas (4,9MB)
+0.6.15 - Inserção do novo módulo de DrawButton com textos inclusos (5,1MB)
+0.6.16 - Pastas e arquivos revisados e alterados de acordo com a estrutura atual (4,2MB)
+
+0.7.1 - Inserção do menu do jogo (parte de frente) (4,3MB)
+0.7.2 - Criado a scene inicial de configuração (4,3MB)
+0.7.3 - Configuração para aumentar e diminuir volumes nos opcionais (4,3MB)
+0.7.4 - Sistema de save inicial programado (4,4MB)
+0.7.5 - Introduzido o mapa de zethyn_laboratory_room_main (4,5MB)
+0.7.6 - Sistema de opções de eventos gerais do mapa (4,5MB)
+0.7.7 - Inserção do mapa zethyn_laboratory_room_pokemon (4,5MB)
